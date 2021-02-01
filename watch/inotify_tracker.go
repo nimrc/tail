@@ -11,7 +11,7 @@ import (
 	"syscall"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/hpcloud/tail/util"
+	"github.com/nimrc/tail/util"
 )
 
 type InotifyTracker struct {

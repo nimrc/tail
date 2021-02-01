@@ -1,4 +1,4 @@
-module github.com/hpcloud/tail
+module github.com/nimrc/tail
 
 go 1.15
 
